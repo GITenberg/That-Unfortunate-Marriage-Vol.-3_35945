@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37666
     wikipedia: http://en.wikipedia.org/wiki/Frances_Eleanor_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35945#That-Unfortunate-Marriage-Vol.-3
 gutenberg_issued: '2011-04-24'
 gutenberg_type: Text
 identifiers:
